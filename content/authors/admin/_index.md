@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuan Wei
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student majors in Elecrtrical & Computer Engineering 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Boston University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
