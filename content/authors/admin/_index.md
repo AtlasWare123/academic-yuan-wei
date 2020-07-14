@@ -30,7 +30,7 @@ education:
   - course: MSU in Electrical & Computer Engineering
     institution: Boston University
     year: Expected 2021
- - course: BSc in Electrical & Electronic Engineering(Joint Programme with UESTC)
+  - course: BSc in Electrical & Electronic Engineering(Joint Programme with UESTC)
     institution: University of Glasgow
     year: 2014
   - course: BSc in Electrical & Electronic Engineering 
